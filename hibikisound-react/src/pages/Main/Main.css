@@ -1,0 +1,9 @@
+#Main {
+  /* position: relative;
+  left: 1.85rem; */
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  padding: 2rem;
+  background-color: rgb(31, 31, 31);
+}

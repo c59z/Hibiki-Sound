@@ -1,0 +1,22 @@
+.Header-top {
+  height: 100vh;
+}
+
+.nav-tag {
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.icon-img {
+  width: 48px;
+  height: 48px;
+}
+
+.icon-span {
+  font-size: 20px;
+  padding-left: 1rem;
+}
+
+.btn_search {
+  height: 55px;
+}

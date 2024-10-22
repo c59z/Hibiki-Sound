@@ -1,0 +1,31 @@
+.ArtistBox {
+  margin-top: 1rem;
+  display: inline-block;
+  width: 240px;
+  height: 300px;
+}
+
+.artist-icon > img {
+  cursor: pointer;
+}
+
+.artist-icon > img {
+  border-radius: 50rem;
+  width: 200px;
+  height: 200px;
+}
+
+.artist-name {
+  color: white;
+  font-size: 18px;
+}
+
+.artist-name:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.artist-category {
+  color: rgb(195, 195, 195);
+}

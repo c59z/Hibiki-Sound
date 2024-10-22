@@ -1,0 +1,52 @@
+.track-list {
+  height: 100%;
+}
+
+.track-row {
+  user-select: none;
+}
+
+.track-row:hover {
+  background-color: #2c2c2c !important;
+}
+
+.track-list-album-image {
+  display: inline-block;
+  border-radius: 3px;
+  float: left;
+  width: 40px;
+  height: 40px;
+}
+
+.track-title {
+  display: inline-block;
+  line-height: 40px;
+  padding-left: 2rem;
+}
+
+.track-artist-area {
+  width: 200px;
+  white-space: nowrap; /* 不换行 */
+  overflow: hidden; /* 超出部分隐藏 */
+  text-overflow: ellipsis; /* 使用省略号表示超出部分 */
+}
+
+.track-artist {
+  color: #8f8f8f;
+}
+
+.track-artist:hover {
+  text-decoration: underline;
+  text-decoration-color: #8f8f8f;
+  cursor: pointer;
+}
+
+.play-this-track-icon {
+  display: inline;
+  cursor: pointer;
+  padding: 0 !important;
+}
+
+.play-this-track-icons:hover {
+  cursor: pointer;
+}

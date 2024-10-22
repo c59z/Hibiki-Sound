@@ -1,0 +1,31 @@
+.AlbumBox {
+  margin-top: 1rem;
+  display: inline-block;
+  width: 240px;
+  height: auto;
+}
+
+.album-icon > img {
+  cursor: pointer;
+}
+
+.album-icon > img {
+  border-radius: 0.7rem;
+  width: 200px;
+  height: 200px;
+}
+
+.album-name {
+  color: white;
+  font-size: 18px;
+}
+
+.album-name:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.artist-name {
+  color: rgb(195, 195, 195);
+}

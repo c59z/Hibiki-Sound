@@ -1,0 +1,14 @@
+#outlined-search {
+  padding: 1rem;
+  width: 100%;
+}
+
+.MuiInputBase-root {
+  width: 100%;
+  /* margin-right: 5rem; */
+}
+
+/* .MuiStack-root {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+} */

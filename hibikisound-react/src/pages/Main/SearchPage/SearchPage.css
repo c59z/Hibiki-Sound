@@ -1,0 +1,15 @@
+#search-page {
+  width: 100%;
+  margin-top: 66px;
+  min-height: calc(100% - 66px);
+  /* background-color: pink; */
+  padding: 0;
+}
+
+.ArtistBoxList {
+  margin-top: 1rem;
+  border-radius: 0.3rem;
+  /* background-color: rgb(36, 36, 36); */
+  padding: 0.5rem 0;
+  height: auto;
+}

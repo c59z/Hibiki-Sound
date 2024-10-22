@@ -1,0 +1,53 @@
+#album-page {
+  width: 100%;
+  margin-top: 66px;
+  min-height: calc(100vh - 66px);
+  /* background-color: pink; */
+  padding: 0;
+}
+
+.album-top {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.album-image {
+  float: left;
+  display: inline-block;
+}
+
+/* 专辑图片 */
+.album-image > img {
+  width: 270px;
+  height: 270px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.artist-info-name {
+  margin-right: 1rem;
+  font-size: larger;
+  font-weight: bold;
+  color: #fa586a;
+}
+
+.album-base-info {
+  display: inline-block;
+  margin: auto 2rem;
+  padding-top: 100px;
+  height: 270px;
+}
+
+.album-info-name {
+  display: inline-block;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.album-date {
+  color: #c9c9c9;
+}
+
+.songs-list {
+  background-color: #1f1f1f;
+}
